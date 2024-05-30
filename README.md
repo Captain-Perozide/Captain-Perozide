@@ -1,16 +1,18 @@
-## Hi there 👋
+
+![Web developer](https://media.licdn.com/dms/image/D5616AQF5Adnup88FzQ/profile-displaybackgroundimage-shrink_350_1400/0/1717090070125?e=1722470400&v=beta&t=kg0apE_1qfCx9oR85KU9Y04ACDNrocyQB6dtLQELaEA)
+
+###### Hi there 👋, my name is Arpan
+### Web developer
+
+Passionate web developer with strong skills in frontend development and a growing knowledge of backend development. I'm always eager to learn new technologies and improve my craft.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on developing my portfolio. 
+- 🌱 I’m currently learning MongoDB 
+- 👯 I’m looking to collaborate on github 
+- 📫 How to reach me: arpanchy.official@gmail.com 
 
 
-**Captain-Perozide/Captain-Perozide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Captain-Perozide)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Arpan Chowdhury/)  
 
